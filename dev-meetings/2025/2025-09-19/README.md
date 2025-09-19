@@ -14,6 +14,7 @@
 #### [Bug Tracker](https://github.com/orgs/gammapy/projects/36/views/1)
 
 #### [DevOps](https://github.com/orgs/gammapy/projects/31)
+* [#6129](https://github.com/gammapy/gammapy/issues/6129) Move project setup and metadata to pyproject.toml
 
 #### [Documentation](https://github.com/orgs/gammapy/projects/27/views/2)
 
